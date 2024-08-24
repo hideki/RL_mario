@@ -1,3 +1,9 @@
+# RL with mario browsers
+
+## Original source
+Build an Mario AI Model with Python | Gaming Reinforcement Learning
+https://www.youtube.com/watch?v=2eeYqJ0uBKE&list=FLYOr1eVR4R5WpiYCKrelh3Q
+
 ## To run RL model with super mario-bros on Mac M1
 
 ```
