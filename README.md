@@ -29,6 +29,10 @@ pip install "stable-baselines3[extra]==1.6.0"
 ```
 
 ## Results after 1M iterations
-![](./mario-1M-iterations.mov)
+
+
+https://github.com/user-attachments/assets/b55c3708-ee5a-4eac-b6f5-2be2df16c64d
+
+
 
 
