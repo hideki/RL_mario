@@ -1,8 +1,7 @@
 # RL with mario browsers
 
 ## Original source
-Build an Mario AI Model with Python | Gaming Reinforcement Learning
-https://www.youtube.com/watch?v=2eeYqJ0uBKE&list=FLYOr1eVR4R5WpiYCKrelh3Q
+[Build an Mario AI Model with Python | Gaming Reinforcement Learning](https://www.youtube.com/watch?v=2eeYqJ0uBKE&list=FLYOr1eVR4R5WpiYCKrelh3Q)
 
 ## To run RL model with super mario-bros on Mac M1
 
@@ -28,4 +27,12 @@ pip install gym==0.21
 pip install "stable-baselines3[extra]==1.6.0"
 
 ```
+
+## Results after 1M iterations
+
+
+https://github.com/user-attachments/assets/b55c3708-ee5a-4eac-b6f5-2be2df16c64d
+
+
+
 
